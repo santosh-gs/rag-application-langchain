@@ -1,1 +1,1 @@
-# rag-application-langchain
+# Retrieval-Augmented Generation (RAG) Application
