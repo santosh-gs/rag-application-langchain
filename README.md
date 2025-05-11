@@ -37,3 +37,6 @@ Inside a terminal, run the following:
 
 * Query the Chroma Database
 `python query_data.py "What operating systems does EC2 support"`
+
+### Example output:
+<img src="https://github.com/santosh-gs/rag-application-langchain/blob/main/output.png" width="1000" />
